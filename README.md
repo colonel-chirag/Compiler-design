@@ -1,6 +1,6 @@
 # Compiler-design
 
-Lec-: https://www.youtube.com/watch?v=Pwps_CP5MFE&list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p&index=2
+Lec-:https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc
 
 ![image](https://user-images.githubusercontent.com/59536110/201928692-019a19cc-badc-4c8b-a607-01988c8f6ad1.png)
 
